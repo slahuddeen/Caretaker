@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Deeny\source\repos\CaretakerV1\CaretakerV1\bin\Debug\CaretakerV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\CaretakerV1\CaretakerV1\bin\Debug\CaretakerV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\CaretakerV1\CaretakerV1\bin\Debug\CaretakerV1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Deeny\source\repos\CaretakerV1\CaretakerV1\bin\Debug\CaretakerV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\CaretakerV1\CaretakerV1\bin\Debug\CaretakerV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\CaretakerV1\CaretakerV1\bin\Debug\CaretakerV1.exe
